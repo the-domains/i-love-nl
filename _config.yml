@@ -1,0 +1,28 @@
+name: I Love NL
+favicon: null
+layout_spectrum: 0.8324153127614409
+typography_spectrum: 0.4565053361002356
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8733932122122496
+  lightness: 0.2132908918429166
+  saturation: 0.8112648653332144
+  rhythmicContrast: 0.14928262075409293
+purpose: []
