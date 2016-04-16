@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[I Love NL]]></title>
         <description><![CDATA[I Love NL]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/i-love-nl/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 11:39:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Apr 2016 11:39:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/i-love-nl/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b973c36-683f-4830-9453-997c8cc59237.png">]]></description>
+            <link>https://thegrid.ai/i-love-nl/i-love-nl-shirt-in-black/index.html</link>
+            <guid isPermaLink="false">400bf62f-59a0-4c2f-aaf8-515aab3a3c7c</guid>
+            <pubDate>Sat, 16 Apr 2016 11:38:51 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2e13bffa-adaa-4979-9cfd-eb864c84464d.png">]]></description>
-            <link>undefinedi-love-nl-boys-black-shirt/index.html</link>
+            <link>https://thegrid.ai/i-love-nl/i-love-nl-boys-black-shirt/index.html</link>
             <guid isPermaLink="false">f116b052-f9a5-4a10-a95a-fd1f4d570b61</guid>
             <pubDate>Sat, 16 Apr 2016 11:38:51 GMT</pubDate>
         </item>
